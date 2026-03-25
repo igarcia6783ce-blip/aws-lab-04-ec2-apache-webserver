@@ -16,7 +16,7 @@ This project demonstrates launching an EC2 instance, installing Apache, and host
 ![EC2 Instance](   https://raw.githubusercontent.com/igarcia6783ce-blip/aws-lab-04-ec2-apache-webserver/refs/heads/main/IMG_20260325_032819.jpg          )
 
 ### Apache Running
-![Apache](PASTE_LINK_2_HERE)
+![Apache](   https://raw.githubusercontent.com/igarcia6783ce-blip/aws-lab-04-ec2-apache-webserver/refs/heads/main/IMG_20260325_032849.jpg          )
 
 ### Website Output
 ![Website](   https://raw.githubusercontent.com/igarcia6783ce-blip/aws-lab-04-ec2-apache-webserver/refs/heads/main/IMG_20260325_032827.jpg        )
